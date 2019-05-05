@@ -1,0 +1,72 @@
+<string-array name="Dragas">
+    <item>Santa Maria</item>
+    <item>Santa Maria 2</item>
+    <item>Mimosa</item>
+    <item>Rio Pardense</item>
+    <item>Guanabara</item>
+    <item>Pangaré</item>
+    <item>PollNow 2</item>
+    <item>African Boy</item>
+        <item>Dragagem de Areia e Seringa LTDA</item>
+        <item>Mineração Cristal LTDA</item>
+        <item>Sandro da Conceição Maciel</item>
+        <item>Areal Ponte do Império</item>
+        <item>Areeira Santa Lúcia ME</item>
+        <item>Bastos e Bastos LTDA</item>
+        <item>V Baugarten</item>
+        <item>Argamassa Guaporé LTDA</item>
+</string-array>
+
+    <string-array name="Empresas">
+        <item>Dragagem de Areia e Seringa LTDA</item>
+        <item>Mineração Cristal LTDA</item>
+        <item>Sandro da Conceição Maciel</item>
+        <item>Areal Ponte do Império</item>
+        <item>Areeira Santa Lúcia ME</item>
+        <item>Bastos e Bastos LTDA</item>
+        <item>V Baugarten</item>
+        <item>Argamassa Guaporé LTDA</item>
+        <item>Santa Maria</item>
+        <item>Santa Maria 2</item>
+        <item>Mimosa</item>
+        <item>Rio Pardense</item>
+        <item>Guanabara</item>
+        <item>Pangaré</item>
+        <item>PollNow 2</item>
+        <item>African Boy</item>
+        <item>Dragagem de Areia e Seringa LTDA</item>
+        <item>Mineração Cristal LTDA</item>
+        <item>Sandro da Conceição Maciel</item>
+        <item>Areal Ponte do Império</item>
+        <item>Areeira Santa Lúcia ME</item>
+        <item>Bastos e Bastos LTDA</item>
+        <item>V Baugarten</item>
+        <item>Argamassa Guaporé LTDA</item>
+    </string-array>
+
+    <string-array name="Mineradoras">
+        <item>Acpo Artefatos de Concreto Pedroso Osorio LTDA</item>
+        <item>Areal Barinesa Exttração e Comércio de Areia LTDA</item>
+        <item>Areal Jk LTDA ME</item>
+        <item>Areal Jk LTDA ME - Atlas</item>
+        <item>Areal Ponte do Império</item>
+        <item>Areeira Vitória LTDA</item>
+        <item>Areia da Lagoa LTDA - ME</item>
+        <item>Aro Mineração LTDA</item>
+        <item>Santa Maria</item>
+        <item>Santa Maria 2</item>
+        <item>Mimosa</item>
+        <item>Rio Pardense</item>
+        <item>Guanabara</item>
+        <item>Pangaré</item>
+        <item>PollNow 2</item>
+        <item>African Boy</item>
+        <item>Dragagem de Areia e Seringa LTDA</item>
+        <item>Mineração Cristal LTDA</item>
+        <item>Sandro da Conceição Maciel</item>
+        <item>Areal Ponte do Império</item>
+        <item>Areeira Santa Lúcia ME</item>
+        <item>Bastos e Bastos LTDA</item>
+        <item>V Baugarten</item>
+        <item>Argamassa Guaporé LTDA</item>
+    </string-array>
