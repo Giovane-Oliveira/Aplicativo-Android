@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".obs">
+
+    <EditText
+        android:id="@+id/edtproblema"
+        android:layout_width="303dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="57dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="@string/problema"
+        android:importantForAutofill="no"
+        android:inputType="textMultiLine"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:targetApi="o" />
+
+    <EditText
+        android:id="@+id/edtsolucao"
+        android:layout_width="303dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="57dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="@string/solucao"
+        android:importantForAutofill="no"
+        android:inputType="textMultiLine"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtproblema"
+        tools:targetApi="o" />
+
+    <EditText
+        android:id="@+id/edtobs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="99dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginEnd="99dp"
+        android:ems="10"
+        android:hint="@string/obs"
+        android:importantForAutofill="no"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtsolucao"
+        tools:targetApi="o" />
+
+    <Button
+        android:id="@+id/btnobs1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="465dp"
+        android:text="@string/voltar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnobs2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="115dp"
+        android:layout_marginTop="465dp"
+        android:layout_marginEnd="69dp"
+        android:text="@string/proximo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btnobs1"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="30dp"
+        android:layout_height="23dp"
+        android:layout_marginStart="61dp"
+        android:layout_marginTop="392dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/nota"
+        app:layout_constraintEnd_toStartOf="@+id/edtobs"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/notas" />
+</android.support.constraint.ConstraintLayout>
